@@ -124,6 +124,10 @@ gT 切换到上一个 tab 页
 
 查找结果被放在 quickfix 窗口，使用 cw 命令打开
 
+欢迎关注我的个人微信公众号了解更多。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/yhkQoyL4zW4g1wWs8nA54YpcTPFKjdmTofG0Ib3sHl2zYNibuKMqaN060Cj1iax3738eumYcfCv5bm5oqU9bhBrg/0?wx_fmt=jpeg)
+
 
 
 

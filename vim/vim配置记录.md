@@ -82,3 +82,7 @@
 待安装完成，我们再使用 Vundle 来安装其他插件，首先进入 vim，然后执行 `PluginInstall` 它既会开始安装 .vimrc 文件中指定的插件，直到显示 Done 后完成安装，使用 q 退出即可。
 
 关于这几个插件的详细介绍和使用我这边就不再多说了，用名字很容易在网上查到。另外关于代码自动补全的插件还有个更厉害的叫 YouCompleteMe 但鉴于其安装麻烦，依赖多，最后我还是放弃了，想想我要在那些老服务器上用起来的话那真是太麻烦了，好在上述两个也基本够我使用的了，到此关于 vim 的配置就到就结束，希望日后不用再折腾它了，哈哈。
+
+欢迎关注我的个人微信公众号了解更多。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/yhkQoyL4zW4g1wWs8nA54YpcTPFKjdmTofG0Ib3sHl2zYNibuKMqaN060Cj1iax3738eumYcfCv5bm5oqU9bhBrg/0?wx_fmt=jpeg)
