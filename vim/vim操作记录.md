@@ -118,7 +118,7 @@ gT 切换到上一个 tab 页
 
 7、vim 打开文件后有 ^M 符号，使用 dos2unix filename 转成 unix 文件格式
 
-8、使用 vimgrep 进行搜索：:vimgrep /hello/gj **/*.c **/*.h
+8、使用 vimgrep 进行搜索：`:vimgrep /hello/gj **/*.c **/*.h`
 
 其中 g表示整句匹配，j表示查找后不跳转到第一个位置，** 表示递归查找
 
