@@ -26,7 +26,7 @@ github 即是一个典型的 git 服务器，但其免费托管的代码都是�
 
 ## 二、进入正题
 
-**第一步**，安装 git ，我用的是 ubuntu 服务器，所以使用 apt-get 命令按键即可，
+**第一步**，安装 git ，我用的是 ubuntu 服务器，所以使用 apt-get 命令即可，
 
 ```sh
 sudo apt-get install git
@@ -38,7 +38,7 @@ sudo apt-get install git
 sudo adduser git
 ```
 
-**第三步**，切换到 git 用户，做这步的原因是后面要创建和编辑一些文件最好是要属于 git 的用户的，
+**第三步**，切换到 git 用户，做这步的原因是后面要创建和编辑一些文件最好是要属于 git 用户的，
 
 ```sh
 su git
@@ -46,19 +46,21 @@ su git
 
 **第四步**，初始化一个空的 git 仓库，
 
-假设我们将 git 仓库建立在 `/home/git/srv` 目录下，那我们 cd 进入这个目录执行如下命令，
+假设我们将 git 仓库建立在 `/home/git/srv` 目录下，那我们 cd 进入这个目录执行如下命令，
 
 ```sh
-sudo git init --bare sample.git
+git init --bare sample.git
 ```
 
 注：服务器上 git 仓库通常都以 .git 结尾
 
 **第五步**，创建证书登录，
 
-git 服务可用通过 ssh 登录，所以需要收集小伙伴的 ssh 公钥，公钥通常位于用户目录的 `.ssh/id_rsa.pub` 文件中。
+git 服务可用通过 ssh 登录，所以需要收集小伙伴的 ssh 公钥，公钥通常位于用户目录的 `.ssh/id_rsa.pub` 文件中。
 
-拿到小伙伴的公钥后我们将其添加到用户目录下的 `.ssh/authorized_keys` 文件中，一行一个。
+关于得到公钥的细节可以参考这篇文章 [windows下GitHub的SSH key配置](https://www.jianshu.com/p/9317a927e844)。
+
+拿到小伙伴的公钥后我们将其添加到用户目录下的 `.ssh/authorized_keys` 文件中，一行一个。
 
 如果系统里面没有这个文件则创建它，如下，
 
@@ -74,7 +76,7 @@ touch .ssh/authorized_keys
 git clone git@server:/home/git/srv/sample.git
 ```
 
-注：其中的 server 即为你的服务器的地址，可以直接为 IP 或域名。
+注：其中的 server 即为你的服务器地址，可以直接为 IP 或域名。
 
 在这个过程最容易遇到的问题就是文件权限的问题，如执行 push 提示权限不够。
 
@@ -90,4 +92,6 @@ chown -R git:git sample.git
 chmod -R 764 sample.git
 ```
 
-收工，周末愉快！ ^_^ 
+扫码关注我了解更多，周末愉快！ ^_^ 
+
+![](http://wx1.sinaimg.cn/large/9e169b75gy1fqcisgsbd7j2076076q3e.jpg)
