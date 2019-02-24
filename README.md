@@ -30,3 +30,5 @@
 [tar 档的秘密](https://github.com/Lingminzou/Docs/blob/master/other/tar%E6%96%87%E4%BB%B6%E7%9A%84%E7%A7%98%E5%AF%86.md)
 
 [如何优雅的生成一个 diff patch](https://github.com/Lingminzou/Docs/blob/master/other/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%20diff%20patch.md)
+
+[用代码改变旧手机的命运](https://github.com/Lingminzou/Docs/blob/master/other/%E7%94%A8%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E6%97%A7%E6%89%8B%E6%9C%BA%E7%9A%84%E5%91%BD%E8%BF%90.md)
