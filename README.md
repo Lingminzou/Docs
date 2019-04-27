@@ -32,3 +32,5 @@
 [如何优雅的生成一个 diff patch](https://github.com/Lingminzou/Docs/blob/master/other/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%20diff%20patch.md)
 
 [用代码改变旧手机的命运](https://github.com/Lingminzou/Docs/blob/master/other/%E7%94%A8%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E6%97%A7%E6%89%8B%E6%9C%BA%E7%9A%84%E5%91%BD%E8%BF%90.md)
+
+[翻车现场之Android遥控按键无响应](https://github.com/Lingminzou/Docs/blob/master/other/%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%E4%B9%8BAndroid%E9%81%A5%E6%8E%A7%E6%8C%89%E9%94%AE%E6%97%A0%E5%93%8D%E5%BA%94.md)
