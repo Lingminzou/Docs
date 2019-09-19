@@ -1,5 +1,5 @@
 
 
 all:
-	gcc main.c -o test.bin
+	g++ main.cpp -o test
 
