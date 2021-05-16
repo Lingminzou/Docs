@@ -38,3 +38,5 @@
 [编程技巧分享之so的初始化](https://github.com/Lingminzou/Docs/blob/master/programming-language/c-lib-init/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB%E4%B9%8Bso%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8C%96.md)
 
 [git之谁埋的雷](https://github.com/Lingminzou/Docs/blob/master/git/git%E4%B9%8B%E8%B0%81%E5%9F%8B%E7%9A%84%E9%9B%B7.md)
+
+[静态代码检查的应用](https://github.com/Lingminzou/Docs/blob/master/other/%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E6%A3%80%E6%9F%A5%E7%9A%84%E5%BA%94%E7%94%A8.md)
