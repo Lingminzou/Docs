@@ -34,3 +34,7 @@
 [用代码改变旧手机的命运](https://github.com/Lingminzou/Docs/blob/master/other/%E7%94%A8%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E6%97%A7%E6%89%8B%E6%9C%BA%E7%9A%84%E5%91%BD%E8%BF%90.md)
 
 [翻车现场之Android遥控按键无响应](https://github.com/Lingminzou/Docs/blob/master/other/%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%E4%B9%8BAndroid%E9%81%A5%E6%8E%A7%E6%8C%89%E9%94%AE%E6%97%A0%E5%93%8D%E5%BA%94.md)
+
+[编程技巧分享之so的初始化](https://github.com/Lingminzou/Docs/blob/master/programming-language/c-lib-init/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB%E4%B9%8Bso%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8C%96.md)
+
+[git之谁埋的雷](https://github.com/Lingminzou/Docs/blob/master/git/git%E4%B9%8B%E8%B0%81%E5%9F%8B%E7%9A%84%E9%9B%B7.md)
